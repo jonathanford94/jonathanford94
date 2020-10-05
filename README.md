@@ -6,12 +6,29 @@
 <p align="center">
 
 
-### Hi there I'm Jonathan Ford
+ Hi there, I am a web developer based in 📍Manchester, UK, specialised in building websites and web applications.
 
-## I am a web developer based in Manchester, UK.
+### My Areas Of Expertise 📖
+- Javascript
+- Node.js
+- Express
+- React
+- Mocha
+- Chai
+- HTML
+- CSS
+- Git
+- Bash
+- SQL
+- Node-SQLite
+- Test Driven Development
+- Agile Delivery
 
-## My Areas Of Expertise
+For more information and to see my experience checkout my website (link below).
 
-## 
+### Get In Touch 💬
+📧 <a href="mailto:jfwebdevelopments@gmail.com">Send an e-mail</a>
 
-## Get In Touch
+🌐 <a href="">Checkout my website</a>
+
+👤 <a href="https://www.linkedin.com/in/jonathan-ford-807058123/">Connect with me on LinkedIn</a>
