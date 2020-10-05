@@ -1,8 +1,8 @@
 <p align="center">
 <a href="">
-<img src="https://github.com/jonathanford94/jonathanford94/JF-Logo.svg" alt="Simple Icons" width=64 height=64>
+<img src="JF-Logo.svg" alt="JF-Logo" width=64 height=64>
 </a>
-<h3 align="center">Simple Icons</h3>
+<h3 align="center">Jonathan Ford</h3>
 <p align="center">
 
 
