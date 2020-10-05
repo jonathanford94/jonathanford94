@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+<a href="">
+<img src="https://github.com/jonathanford94/jonathanford94/JF-Logo.svg" alt="Simple Icons" width=64 height=64>
+</a>
+<h3 align="center">Simple Icons</h3>
+<p align="center">
 
-<!--
-**jonathanford94/jonathanford94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there I'm Jonathan Ford
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am a web developer based in Manchester, UK.
+
+## My Areas Of Expertise
+
+## 
+
+## Get In Touch
